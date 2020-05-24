@@ -18,7 +18,7 @@ function WeatherContextProvider(props) {
   };
 
   //console.log(weather.message);
-
+  //console.log(added prog)
   return (
     <Provider
       value={{
